@@ -1,0 +1,5 @@
+body { background: #fff; }
+.container img { object-fit: cover; }
+.list-group-item { cursor: pointer; }
+.rounded { border-radius: .5rem; }
+
